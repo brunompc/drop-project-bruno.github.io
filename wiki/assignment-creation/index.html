@@ -33,11 +33,13 @@
 <link rel="prev" href="https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts">
 
 
+<link rel="next" href="https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez">
+
 
 <!-- start:inject styles -->
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/a728327e/assets/css/editorial_main.css"  />
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/a728327e/assets/css/editorial_orchidCustomizations.css"  />
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/a728327e/assets/css/orchidSearch.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/e00ef6d2/assets/css/editorial_main.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/e00ef6d2/assets/css/editorial_orchidCustomizations.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/e00ef6d2/assets/css/orchidSearch.css"  />
 <!-- end:inject styles -->
 
 
@@ -64,7 +66,7 @@
 
 <!-- COMPLETE PAGE CONFIGURATION -->
 <script>
-    window.allData = {"reference":{"path":"wiki","baseUrl":"https://brunompc.github.io/drop-project-bruno.github.io","fileName":"assignment-creation","extension":"html","usePrettyUrl":true,"link":"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"},"previous":{"path":"wiki","baseUrl":"https://brunompc.github.io/drop-project-bruno.github.io","fileName":"concepts","extension":"html","usePrettyUrl":true,"link":"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts"},"description":"","title":"Assignment Creation Tutorial"};
+    window.allData = {"reference":{"path":"wiki","baseUrl":"https://brunompc.github.io/drop-project-bruno.github.io","fileName":"assignment-creation","extension":"html","usePrettyUrl":true,"link":"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"},"next":{"path":"wiki","baseUrl":"https://brunompc.github.io/drop-project-bruno.github.io","fileName":"codez-allez","extension":"html","usePrettyUrl":true,"link":"https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez"},"previous":{"path":"wiki","baseUrl":"https://brunompc.github.io/drop-project-bruno.github.io","fileName":"concepts","extension":"html","usePrettyUrl":true,"link":"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts"},"description":"","title":"Assignment Creation Tutorial"};
 </script>
 
 <!-- end:debug info -->
@@ -151,12 +153,11 @@
             
                 
                     
-                        <p>Assignment Creation Tutorial</p>
-<p>This tutorial explains how a teacher can create a new Assignment in Drop Project.</p>
+                        <p>This tutorial explains how a teacher can create a new Assignment in Drop Project.</p>
 <p>The first step is to create a git repository with the correct structure. The easiest way to do this is to clone one of the the following repositories:</p>
 <p>https://github.com/drop-project-edu/sampleJavaAssignment</p>
 <p>https://github.com/drop-project-edu/sampleKotlinAssignment</p>
-<p>Structure</p>
+<h1 id="structure"><a href="#structure" id="structure" class="anchor"></a>Structure</h1>
 <p>The structure of the repository must be the following:</p>
 <pre><code>+ assignment
 |--- pom.xml  (includes the checkstyle and junit plugins)
@@ -169,13 +170,15 @@
 |--------- ... (JUnit tests that will validate students' submissions)
 </code></pre>
 <p>After the creation of the repository, the following steps should be followed in the Drop Project web-application:</p>
-<p>Login with your teacher account
-From the top menu, open the <code>Manage Assignments</code> page
-Press the <code>Create Assignment</code> blue button that appears in the bottom of the page
-Fill in the form - below each field there is a short description of its purpose</p>
-<p>How to create tests</p>
+<ol>
+<li>Login with your teacher account</li>
+<li>From the top menu, open the <code>Manage Assignments</code> page</li>
+<li>Press the <code>Create Assignment</code> blue button that appears in the bottom of the page</li>
+<li>Fill in the form - below each field there is a short description of its purpose</li>
+</ol>
+<h1 id="how-to-create-tests"><a href="#how-to-create-tests" id="how-to-create-tests" class="anchor"></a>How to create tests</h1>
 <p>Public tests should be defined in a file whose name should be prefixed with the <code>TestTeacher</code>. For example, the tests
-for a class Person should be defined in file <code>TestTeacherPerson</code>.</p>
+for a class <code>Person</code> should be defined in a file called <code>TestTeacherPerson</code>.</p>
 <p>Hidden tests should be defined in a file whose name should be prefixed with <code>TestTeacherHidden</code>. For example, <code>TestTeacherHiddenPerson</code>.</p>
 <p>It is possible to have multiple test public and hidden test classes.</p>
 
@@ -204,6 +207,12 @@ for a class Person should be defined in file <code>TestTeacherPerson</code>.</p>
                     </a>
                 </div>
             
+            
+                <div class="float-right">
+                    <a href="https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez" class="button special small pill">
+                        Codez<span>&rarr;</span>
+                    </a>
+                </div>
             
         </div>
     </footer>
@@ -256,6 +265,14 @@ for a class Person should be defined in file <code>TestTeacherPerson</code>.</p>
     
     <li>
         <a href="https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation">Assignment Creation Tutorial</a>
+    </li>
+    
+
+                
+                    
+    
+    <li>
+        <a href="https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez">Codez</a>
     </li>
     
 
@@ -1184,9 +1201,9 @@ for a class Person should be defined in file <code>TestTeacherPerson</code>.</p>
 <!-- start:inject scripts -->
 <script  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script  src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/a728327e/assets/js/editorial_util.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/a728327e/assets/js/editorial_main.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/a728327e/assets/js/editorial_orchidCustomizations.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/e00ef6d2/assets/js/editorial_util.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/e00ef6d2/assets/js/editorial_main.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/e00ef6d2/assets/js/editorial_orchidCustomizations.js"></script>
 <!-- end:inject scripts -->
 
 

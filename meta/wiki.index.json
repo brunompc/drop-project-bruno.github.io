@@ -3,6 +3,30 @@
   "childrenPages": {"wiki": {
     "ownKey": "wiki",
     "childrenPages": {
+      "codez-allez": {
+        "ownKey": "codez-allez",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
+            "fileName": "codez-allez",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
+            "fileName": "assignment-creation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
+          },
+          "description": "",
+          "title": "Codez",
+          "content": ""
+        }]
+      },
       "concepts": {
         "ownKey": "concepts",
         "ownPages": [{
@@ -38,6 +62,14 @@
             "usePrettyUrl": true,
             "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
           },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
+            "fileName": "codez-allez",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez"
+          },
           "previous": {
             "path": "wiki",
             "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
@@ -48,7 +80,7 @@
           },
           "description": "",
           "title": "Assignment Creation Tutorial",
-          "content": "<p>Assignment Creation Tutorial<\/p>\n<p>This tutorial explains how a teacher can create a new Assignment in Drop Project.<\/p>\n<p>The first step is to create a git repository with the correct structure. The easiest way to do this is to clone one of the the following repositories:<\/p>\n<p>https://github.com/drop-project-edu/sampleJavaAssignment<\/p>\n<p>https://github.com/drop-project-edu/sampleKotlinAssignment<\/p>\n<p>Structure<\/p>\n<p>The structure of the repository must be the following:<\/p>\n<pre><code>+ assignment\n|--- pom.xml  (includes the checkstyle and junit plugins)\n|--- checkstyle.xml  (the rules to validate the code style, e.g., variables must start with lowercase)\n|--- instructions.html     (optional, the assignment instructions)\n|--- src\n|------ main\n|--------- ... (here goes the reference implementation, in maven structure)\n|------ test\n|--------- ... (JUnit tests that will validate students' submissions)\n<\/code><\/pre>\n<p>After the creation of the repository, the following steps should be followed in the Drop Project web-application:<\/p>\n<p>Login with your teacher account\nFrom the top menu, open the <code>Manage Assignments<\/code> page\nPress the <code>Create Assignment<\/code> blue button that appears in the bottom of the page\nFill in the form - below each field there is a short description of its purpose<\/p>\n<p>How to create tests<\/p>\n<p>Public tests should be defined in a file whose name should be prefixed with the <code>TestTeacher<\/code>. For example, the tests\nfor a class Person should be defined in file <code>TestTeacherPerson<\/code>.<\/p>\n<p>Hidden tests should be defined in a file whose name should be prefixed with <code>TestTeacherHidden<\/code>. For example, <code>TestTeacherHiddenPerson<\/code>.<\/p>\n<p>It is possible to have multiple test public and hidden test classes.<\/p>\n"
+          "content": "<p>This tutorial explains how a teacher can create a new Assignment in Drop Project.<\/p>\n<p>The first step is to create a git repository with the correct structure. The easiest way to do this is to clone one of the the following repositories:<\/p>\n<p>https://github.com/drop-project-edu/sampleJavaAssignment<\/p>\n<p>https://github.com/drop-project-edu/sampleKotlinAssignment<\/p>\n<h1 id=\"structure\"><a href=\"#structure\" id=\"structure\" class=\"anchor\"><\/a>Structure<\/h1>\n<p>The structure of the repository must be the following:<\/p>\n<pre><code>+ assignment\n|--- pom.xml  (includes the checkstyle and junit plugins)\n|--- checkstyle.xml  (the rules to validate the code style, e.g., variables must start with lowercase)\n|--- instructions.html     (optional, the assignment instructions)\n|--- src\n|------ main\n|--------- ... (here goes the reference implementation, in maven structure)\n|------ test\n|--------- ... (JUnit tests that will validate students' submissions)\n<\/code><\/pre>\n<p>After the creation of the repository, the following steps should be followed in the Drop Project web-application:<\/p>\n<ol>\n<li>Login with your teacher account<\/li>\n<li>From the top menu, open the <code>Manage Assignments<\/code> page<\/li>\n<li>Press the <code>Create Assignment<\/code> blue button that appears in the bottom of the page<\/li>\n<li>Fill in the form - below each field there is a short description of its purpose<\/li>\n<\/ol>\n<h1 id=\"how-to-create-tests\"><a href=\"#how-to-create-tests\" id=\"how-to-create-tests\" class=\"anchor\"><\/a>How to create tests<\/h1>\n<p>Public tests should be defined in a file whose name should be prefixed with the <code>TestTeacher<\/code>. For example, the tests\nfor a class <code>Person<\/code> should be defined in a file called <code>TestTeacherPerson<\/code>.<\/p>\n<p>Hidden tests should be defined in a file whose name should be prefixed with <code>TestTeacherHidden<\/code>. For example, <code>TestTeacherHiddenPerson<\/code>.<\/p>\n<p>It is possible to have multiple test public and hidden test classes.<\/p>\n"
         }]
       }
     },
@@ -63,7 +95,7 @@
       },
       "description": "",
       "title": "Wiki",
-      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez\">Codez<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
     }]
   }}
 }
