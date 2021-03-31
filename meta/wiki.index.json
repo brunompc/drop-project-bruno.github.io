@@ -3,30 +3,6 @@
   "childrenPages": {"wiki": {
     "ownKey": "wiki",
     "childrenPages": {
-      "codez-allez": {
-        "ownKey": "codez-allez",
-        "ownPages": [{
-          "reference": {
-            "path": "wiki",
-            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
-            "fileName": "codez-allez",
-            "extension": "html",
-            "usePrettyUrl": true,
-            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez"
-          },
-          "previous": {
-            "path": "wiki",
-            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
-            "fileName": "assignment-creation",
-            "extension": "html",
-            "usePrettyUrl": true,
-            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
-          },
-          "description": "",
-          "title": "Codez",
-          "content": ""
-        }]
-      },
       "concepts": {
         "ownKey": "concepts",
         "ownPages": [{
@@ -62,14 +38,6 @@
             "usePrettyUrl": true,
             "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
           },
-          "next": {
-            "path": "wiki",
-            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
-            "fileName": "codez-allez",
-            "extension": "html",
-            "usePrettyUrl": true,
-            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez"
-          },
           "previous": {
             "path": "wiki",
             "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
@@ -95,7 +63,7 @@
       },
       "description": "",
       "title": "Wiki",
-      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/codez-allez\">Codez<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
     }]
   }}
 }
