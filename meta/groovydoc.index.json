@@ -5,11 +5,11 @@
     "ownPages": [{
       "reference": {
         "path": "groovydoc",
-        "baseUrl": "http://brunompc.github.io/drop-project-bruno.github.io",
+        "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://brunompc.github.io/drop-project-bruno.github.io/groovydoc"
+        "link": "https://brunompc.github.io/drop-project-bruno.github.io/groovydoc"
       },
       "description": "",
       "title": "",
