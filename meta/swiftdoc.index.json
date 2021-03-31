@@ -1,0 +1,19 @@
+{
+  "ownKey": "swiftdoc",
+  "childrenPages": {"swiftdoc": {
+    "ownKey": "swiftdoc",
+    "ownPages": [{
+      "reference": {
+        "path": "swiftdoc",
+        "baseUrl": "/",
+        "fileName": "",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/swiftdoc"
+      },
+      "description": "",
+      "title": "",
+      "content": ""
+    }]
+  }}
+}

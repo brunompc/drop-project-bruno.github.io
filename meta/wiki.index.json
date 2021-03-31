@@ -1,0 +1,101 @@
+{
+  "ownKey": "wiki",
+  "childrenPages": {"wiki": {
+    "ownKey": "wiki",
+    "childrenPages": {
+      "codez-allez": {
+        "ownKey": "codez-allez",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "codez-allez",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/codez-allez"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "assignment-creation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/assignment-creation"
+          },
+          "description": "",
+          "title": "Codez",
+          "content": ""
+        }]
+      },
+      "concepts": {
+        "ownKey": "concepts",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "concepts",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/concepts"
+          },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "assignment-creation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/assignment-creation"
+          },
+          "description": "",
+          "title": "Concepts",
+          "content": "<p>Concepts<\/p>\n<p>Assignments\nand\nSubmissions<\/p>\n"
+        }]
+      },
+      "assignment-creation": {
+        "ownKey": "assignment-creation",
+        "ownPages": [{
+          "reference": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "assignment-creation",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/assignment-creation"
+          },
+          "next": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "codez-allez",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/codez-allez"
+          },
+          "previous": {
+            "path": "wiki",
+            "baseUrl": "/",
+            "fileName": "concepts",
+            "extension": "html",
+            "usePrettyUrl": true,
+            "link": "/wiki/concepts"
+          },
+          "description": "",
+          "title": "Assignment Creation Tutorial",
+          "content": "<p>Assignment Creation Tutorial<\/p>\n"
+        }]
+      }
+    },
+    "ownPages": [{
+      "reference": {
+        "path": "",
+        "baseUrl": "/",
+        "fileName": "wiki",
+        "extension": "html",
+        "usePrettyUrl": true,
+        "link": "/wiki"
+      },
+      "description": "",
+      "title": "Wiki",
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"/wiki/codez-allez\">Codez<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+    }]
+  }}
+}
