@@ -4,11 +4,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "/",
+        "baseUrl": "http://brunompc.github.io/drop-project-bruno.github.io",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "/"
+        "link": "http://brunompc.github.io/drop-project-bruno.github.io"
       },
       "description": "",
       "title": "Home",
@@ -17,11 +17,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "/",
+        "baseUrl": "http://brunompc.github.io/drop-project-bruno.github.io",
         "fileName": "404",
         "extension": "html",
         "usePrettyUrl": false,
-        "link": "/404.html"
+        "link": "http://brunompc.github.io/drop-project-bruno.github.io/404.html"
       },
       "description": "",
       "title": "Not Found",

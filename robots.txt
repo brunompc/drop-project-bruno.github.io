@@ -4,5 +4,5 @@ Disallow: /
 
 
 
-Sitemap: /sitemap.xml
+Sitemap: http://brunompc.github.io/drop-project-bruno.github.io/sitemap.xml
 
