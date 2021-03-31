@@ -5,22 +5,22 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>/wiki</loc>
-        <lastmod>2021-03-29</lastmod>
+        <lastmod>2021-03-31</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>/wiki/concepts</loc>
-        <lastmod>2021-03-29</lastmod>
+        <lastmod>2021-03-31</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>/wiki/assignment-creation</loc>
-        <lastmod>2021-03-29</lastmod>
+        <lastmod>2021-03-31</lastmod>
         <priority>0.5</priority>
     </url>
     <url>
         <loc>/wiki/codez-allez</loc>
-        <lastmod>2021-03-29</lastmod>
+        <lastmod>2021-03-31</lastmod>
         <priority>0.5</priority>
     </url>
 </urlset>
