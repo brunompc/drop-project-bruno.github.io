@@ -37,9 +37,9 @@
 
 
 <!-- start:inject styles -->
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/84972786/assets/css/editorial_main.css"  />
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/84972786/assets/css/editorial_orchidCustomizations.css"  />
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/84972786/assets/css/orchidSearch.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/94299f91/assets/css/editorial_main.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/94299f91/assets/css/editorial_orchidCustomizations.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/94299f91/assets/css/orchidSearch.css"  />
 <!-- end:inject styles -->
 
 
@@ -154,6 +154,34 @@
                 
                     
                         <p>Assignment Creation Tutorial</p>
+<p>This tutorial explains how a teacher can create a new Assignment in Drop Project.</p>
+<p>The first step is to create a git repository with the correct structure. The easiest way to do this is to clone one of the the following repositories:</p>
+<p>https://github.com/drop-project-edu/sampleJavaAssignment</p>
+<p>https://github.com/drop-project-edu/sampleKotlinAssignment</p>
+<p>Structure</p>
+<p>The structure of the repository must be the following:</p>
+<ul>
+<li>assignment</li>
+</ul>
+<aside>
+<p>--- pom.xml  (includes the checkstyle and junit plugins)
+--- checkstyle.xml  (the rules to validate the code style, e.g., variables must start with lowercase)
+--- instructions.html     (optional, the assignment instructions)
+--- src
+------ main
+--------- ... (here goes the reference implementation, in maven structure)
+------ test
+--------- ... (junit tests that will validate students' submissions)</p>
+</aside>
+<p>After the creation of the repository, the following steps should be followed in the Drop Project web-application:</p>
+<p>Login with your teacher account
+From the top menu, open the �Manage Assignments� page
+Press the �Create Assignment� blue button that appears in the bottom of the page
+Fill in the form - below each field there is a short description of its purpose</p>
+<p>How to create tests</p>
+<p>Public tests should be defined in a file whose name should start with �TestTeacher�. For example, �TestTeacherPerson�.</p>
+<p>Hidden tests should be defined in a file whose name should start with �TestTeacherHidden�. For example, �TestTeacherHiddenPerson�.</p>
+<p>It is possible to have multiple test public and hidden test classes.</p>
 
                     
                 
@@ -1174,9 +1202,9 @@
 <!-- start:inject scripts -->
 <script  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script  src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/84972786/assets/js/editorial_util.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/84972786/assets/js/editorial_main.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/84972786/assets/js/editorial_orchidCustomizations.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/94299f91/assets/js/editorial_util.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/94299f91/assets/js/editorial_main.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/94299f91/assets/js/editorial_orchidCustomizations.js"></script>
 <!-- end:inject scripts -->
 
 
