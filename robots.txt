@@ -4,5 +4,5 @@ Disallow: /
 
 
 
-Sitemap: https://drop-project-edu.github.io/drop-project/sitemap.xml
+Sitemap: http://localhost:8080/sitemap.xml
 

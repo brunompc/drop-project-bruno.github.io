@@ -4,83 +4,83 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd"
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-assets.xml</loc>
+        <loc>http://localhost:8080/sitemap-assets.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-external.xml</loc>
+        <loc>http://localhost:8080/sitemap-external.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-changelog.xml</loc>
+        <loc>http://localhost:8080/sitemap-changelog.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-forms.xml</loc>
+        <loc>http://localhost:8080/sitemap-forms.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-groovydoc.xml</loc>
+        <loc>http://localhost:8080/sitemap-groovydoc.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-home.xml</loc>
+        <loc>http://localhost:8080/sitemap-home.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-javadoc.xml</loc>
+        <loc>http://localhost:8080/sitemap-javadoc.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-kotlindoc.xml</loc>
+        <loc>http://localhost:8080/sitemap-kotlindoc.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-styleguide.xml</loc>
+        <loc>http://localhost:8080/sitemap-styleguide.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-netlifyCms.xml</loc>
+        <loc>http://localhost:8080/sitemap-netlifyCms.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-pages.xml</loc>
+        <loc>http://localhost:8080/sitemap-pages.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-posts.xml</loc>
+        <loc>http://localhost:8080/sitemap-posts.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-presentations.xml</loc>
+        <loc>http://localhost:8080/sitemap-presentations.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-snippets.xml</loc>
+        <loc>http://localhost:8080/sitemap-snippets.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-swiftdoc.xml</loc>
+        <loc>http://localhost:8080/sitemap-swiftdoc.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-wiki.xml</loc>
+        <loc>http://localhost:8080/sitemap-wiki.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-taxonomies.xml</loc>
+        <loc>http://localhost:8080/sitemap-taxonomies.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-sitemap.xml</loc>
+        <loc>http://localhost:8080/sitemap-sitemap.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-feeds.xml</loc>
+        <loc>http://localhost:8080/sitemap-feeds.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
     <sitemap>
-        <loc>https://drop-project-edu.github.io/drop-project/sitemap-indices.xml</loc>
+        <loc>http://localhost:8080/sitemap-indices.xml</loc>
         <lastmod>2021-04-05</lastmod>
     </sitemap>
 </sitemapindex>

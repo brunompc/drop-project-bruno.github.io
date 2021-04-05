@@ -5,11 +5,11 @@
     "ownPages": [{
       "reference": {
         "path": "swiftdoc",
-        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+        "baseUrl": "http://localhost:8080",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "https://drop-project-edu.github.io/drop-project/swiftdoc"
+        "link": "http://localhost:8080/swiftdoc"
       },
       "description": "",
       "title": "",

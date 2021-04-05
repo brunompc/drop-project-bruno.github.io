@@ -15,11 +15,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/groupedprojectgroups",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/groupedprojectgroups"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/groupedprojectgroups"
                   },
                   "description": "",
                   "title": "GroupedProjectGroups",
@@ -31,11 +31,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/testtype",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/testtype"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/testtype"
                   },
                   "description": "",
                   "title": "TestType",
@@ -47,11 +47,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/mavenresult",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/mavenresult"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/mavenresult"
                   },
                   "description": "",
                   "title": "MavenResult",
@@ -63,11 +63,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/assignmentstatistics",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/assignmentstatistics"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/assignmentstatistics"
                   },
                   "description": "",
                   "title": "AssignmentStatistics",
@@ -79,11 +79,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/buildreport",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/buildreport"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/buildreport"
                   },
                   "description": "",
                   "title": "BuildReport",
@@ -95,11 +95,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/groupsubmissionstatistics",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/groupsubmissionstatistics"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/groupsubmissionstatistics"
                   },
                   "description": "",
                   "title": "GroupSubmissionStatistics",
@@ -111,11 +111,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/junitsummary",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/junitsummary"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/junitsummary"
                   },
                   "description": "",
                   "title": "JUnitSummary",
@@ -127,11 +127,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/submissioninfo",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/submissioninfo"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/submissioninfo"
                   },
                   "description": "",
                   "title": "SubmissionInfo",
@@ -143,11 +143,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/data/authordetails",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data/authordetails"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/data/authordetails"
                   },
                   "description": "",
                   "title": "AuthorDetails",
@@ -158,11 +158,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/data",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/data"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/data"
               },
               "description": "",
               "title": "org.dropProject.data",
@@ -174,11 +174,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/thymeleafconfig",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/thymeleafconfig"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/thymeleafconfig"
               },
               "description": "",
               "title": "ThymeleafConfig",
@@ -190,11 +190,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/asynctestconfig",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/asynctestconfig"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/asynctestconfig"
               },
               "description": "",
               "title": "AsyncTestConfig",
@@ -208,11 +208,11 @@
               "ownPages": [{
                 "reference": {
                   "path": "kotlindoc",
-                  "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                  "baseUrl": "http://localhost:8080",
                   "fileName": "org/dropproject/filters/controllerrequestsloggingfilter",
                   "extension": "html",
                   "usePrettyUrl": true,
-                  "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/filters/controllerrequestsloggingfilter"
+                  "link": "http://localhost:8080/kotlindoc/org/dropproject/filters/controllerrequestsloggingfilter"
                 },
                 "description": "",
                 "title": "ControllerRequestsLoggingFilter",
@@ -222,11 +222,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/filters",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/filters"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/filters"
               },
               "description": "",
               "title": "org.dropProject.filters",
@@ -241,11 +241,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/buildreportbuilder",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/buildreportbuilder"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/buildreportbuilder"
                   },
                   "description": "",
                   "title": "BuildReportBuilder",
@@ -257,11 +257,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/jacocoresultsparser",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/jacocoresultsparser"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/jacocoresultsparser"
                   },
                   "description": "",
                   "title": "JacocoResultsParser",
@@ -273,11 +273,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/myasyncuncaughtexceptionhandler",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/myasyncuncaughtexceptionhandler"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/myasyncuncaughtexceptionhandler"
                   },
                   "description": "",
                   "title": "MyAsyncUncaughtExceptionHandler",
@@ -289,11 +289,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/junitmethodresulttype",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/junitmethodresulttype"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/junitmethodresulttype"
                   },
                   "description": "",
                   "title": "JUnitMethodResultType",
@@ -305,11 +305,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/assignmentteacherfiles",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/assignmentteacherfiles"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/assignmentteacherfiles"
                   },
                   "description": "",
                   "title": "AssignmentTeacherFiles",
@@ -321,11 +321,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/zipservice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/zipservice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/zipservice"
                   },
                   "description": "",
                   "title": "ZipService",
@@ -337,11 +337,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/assignmentservice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/assignmentservice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/assignmentservice"
                   },
                   "description": "",
                   "title": "AssignmentService",
@@ -353,11 +353,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/gitsubmissionservice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/gitsubmissionservice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/gitsubmissionservice"
                   },
                   "description": "",
                   "title": "GitSubmissionService",
@@ -369,11 +369,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/junitresults",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/junitresults"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/junitresults"
                   },
                   "description": "",
                   "title": "JUnitResults",
@@ -388,11 +388,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/services/assignmentvalidator/infotype",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/assignmentvalidator/infotype"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/services/assignmentvalidator/infotype"
                       },
                       "description": "",
                       "title": "InfoType",
@@ -404,11 +404,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/services/assignmentvalidator/info",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/assignmentvalidator/info"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/services/assignmentvalidator/info"
                       },
                       "description": "",
                       "title": "Info",
@@ -419,11 +419,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/assignmentvalidator",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/assignmentvalidator"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/assignmentvalidator"
                   },
                   "description": "",
                   "title": "AssignmentValidator",
@@ -435,11 +435,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/scheduledtasks",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/scheduledtasks"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/scheduledtasks"
                   },
                   "description": "",
                   "title": "ScheduledTasks",
@@ -451,11 +451,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/buildworker",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/buildworker"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/buildworker"
                   },
                   "description": "",
                   "title": "BuildWorker",
@@ -467,11 +467,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/maveninvoker",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/maveninvoker"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/maveninvoker"
                   },
                   "description": "",
                   "title": "MavenInvoker",
@@ -486,11 +486,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/services/gitclient/mytransportconfigcallback",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/gitclient/mytransportconfigcallback"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/services/gitclient/mytransportconfigcallback"
                       },
                       "description": "",
                       "title": "MyTransportConfigCallback",
@@ -502,11 +502,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/services/gitclient/commitdiff",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/gitclient/commitdiff"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/services/gitclient/commitdiff"
                       },
                       "description": "",
                       "title": "CommitDiff",
@@ -518,11 +518,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/services/gitclient/myjschconfigsessionfactory",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/gitclient/myjschconfigsessionfactory"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/services/gitclient/myjschconfigsessionfactory"
                       },
                       "description": "",
                       "title": "MyJschConfigSessionFactory",
@@ -534,11 +534,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/services/gitclient/commitinfo",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/gitclient/commitinfo"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/services/gitclient/commitinfo"
                       },
                       "description": "",
                       "title": "CommitInfo",
@@ -549,11 +549,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/gitclient",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/gitclient"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/gitclient"
                   },
                   "description": "",
                   "title": "GitClient",
@@ -565,11 +565,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/junitresultsparser",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/junitresultsparser"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/junitresultsparser"
                   },
                   "description": "",
                   "title": "JunitResultsParser",
@@ -581,11 +581,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/submissionservice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/submissionservice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/submissionservice"
                   },
                   "description": "",
                   "title": "SubmissionService",
@@ -597,11 +597,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/jacocoresults",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/jacocoresults"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/jacocoresults"
                   },
                   "description": "",
                   "title": "JacocoResults",
@@ -613,11 +613,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/services/junitmethodresult",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services/junitmethodresult"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/services/junitmethodresult"
                   },
                   "description": "",
                   "title": "JUnitMethodResult",
@@ -628,11 +628,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/services",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/services"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/services"
               },
               "description": "",
               "title": "org.dropProject.services",
@@ -647,11 +647,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/storage/filesystemstorageservice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/storage/filesystemstorageservice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/storage/filesystemstorageservice"
                   },
                   "description": "",
                   "title": "FileSystemStorageService",
@@ -663,11 +663,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/storage/storageexception",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/storage/storageexception"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/storage/storageexception"
                   },
                   "description": "",
                   "title": "StorageException",
@@ -679,11 +679,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/storage/storageservice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/storage/storageservice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/storage/storageservice"
                   },
                   "description": "",
                   "title": "StorageService",
@@ -694,11 +694,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/storage",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/storage"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/storage"
               },
               "description": "",
               "title": "org.dropProject.storage",
@@ -713,11 +713,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/assigneerepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/assigneerepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/assigneerepository"
                   },
                   "description": "",
                   "title": "AssigneeRepository",
@@ -729,11 +729,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/buildreportrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/buildreportrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/buildreportrepository"
                   },
                   "description": "",
                   "title": "BuildReportRepository",
@@ -745,11 +745,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/submissionrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/submissionrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/submissionrepository"
                   },
                   "description": "",
                   "title": "SubmissionRepository",
@@ -761,11 +761,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/assignmenttagrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/assignmenttagrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/assignmenttagrepository"
                   },
                   "description": "",
                   "title": "AssignmentTagRepository",
@@ -777,11 +777,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/submissionreportrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/submissionreportrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/submissionreportrepository"
                   },
                   "description": "",
                   "title": "SubmissionReportRepository",
@@ -793,11 +793,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/assignmenttestmethodrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/assignmenttestmethodrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/assignmenttestmethodrepository"
                   },
                   "description": "",
                   "title": "AssignmentTestMethodRepository",
@@ -809,11 +809,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/assignmentreportrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/assignmentreportrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/assignmentreportrepository"
                   },
                   "description": "",
                   "title": "AssignmentReportRepository",
@@ -825,11 +825,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/jacocoreportrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/jacocoreportrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/jacocoreportrepository"
                   },
                   "description": "",
                   "title": "JacocoReportRepository",
@@ -841,11 +841,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/assignmentrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/assignmentrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/assignmentrepository"
                   },
                   "description": "",
                   "title": "AssignmentRepository",
@@ -857,11 +857,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/assignmentaclrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/assignmentaclrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/assignmentaclrepository"
                   },
                   "description": "",
                   "title": "AssignmentACLRepository",
@@ -873,11 +873,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/gitsubmissionrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/gitsubmissionrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/gitsubmissionrepository"
                   },
                   "description": "",
                   "title": "GitSubmissionRepository",
@@ -889,11 +889,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/authorrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/authorrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/authorrepository"
                   },
                   "description": "",
                   "title": "AuthorRepository",
@@ -905,11 +905,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/junitreportrepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/junitreportrepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/junitreportrepository"
                   },
                   "description": "",
                   "title": "JUnitReportRepository",
@@ -921,11 +921,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/repository/projectgrouprepository",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository/projectgrouprepository"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/repository/projectgrouprepository"
                   },
                   "description": "",
                   "title": "ProjectGroupRepository",
@@ -936,11 +936,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/repository",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/repository"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/repository"
               },
               "description": "",
               "title": "org.dropProject.repository",
@@ -952,11 +952,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/extensions",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/extensions"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/extensions"
               },
               "description": "",
               "title": "org.dropProject.extensions",
@@ -970,11 +970,11 @@
               "ownPages": [{
                 "reference": {
                   "path": "kotlindoc",
-                  "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                  "baseUrl": "http://localhost:8080",
                   "fileName": "org/dropproject/security/dropprojectsecurityconfig",
                   "extension": "html",
                   "usePrettyUrl": true,
-                  "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/security/dropprojectsecurityconfig"
+                  "link": "http://localhost:8080/kotlindoc/org/dropproject/security/dropprojectsecurityconfig"
                 },
                 "description": "",
                 "title": "DropProjectSecurityConfig",
@@ -984,11 +984,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/security",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/security"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/security"
               },
               "description": "",
               "title": "org.dropProject.security",
@@ -1003,11 +1003,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/assignmentacl",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/assignmentacl"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/assignmentacl"
                   },
                   "description": "",
                   "title": "AssignmentACL",
@@ -1019,11 +1019,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/indicator",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/indicator"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/indicator"
                   },
                   "description": "",
                   "title": "Indicator",
@@ -1035,11 +1035,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/submissionreport",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/submissionreport"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/submissionreport"
                   },
                   "description": "",
                   "title": "SubmissionReport",
@@ -1051,11 +1051,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/assignment",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/assignment"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/assignment"
                   },
                   "description": "",
                   "title": "Assignment",
@@ -1067,11 +1067,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/assignmenttestmethod",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/assignmenttestmethod"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/assignmenttestmethod"
                   },
                   "description": "",
                   "title": "AssignmentTestMethod",
@@ -1083,11 +1083,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/author",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/author"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/author"
                   },
                   "description": "",
                   "title": "Author",
@@ -1099,11 +1099,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/junitreport",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/junitreport"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/junitreport"
                   },
                   "description": "",
                   "title": "JUnitReport",
@@ -1115,11 +1115,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/language",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/language"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/language"
                   },
                   "description": "",
                   "title": "Language",
@@ -1131,11 +1131,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/buildreport",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/buildreport"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/buildreport"
                   },
                   "description": "",
                   "title": "BuildReport",
@@ -1147,11 +1147,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/leaderboardtype",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/leaderboardtype"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/leaderboardtype"
                   },
                   "description": "",
                   "title": "LeaderboardType",
@@ -1163,11 +1163,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/assignmenttag",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/assignmenttag"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/assignmenttag"
                   },
                   "description": "",
                   "title": "AssignmentTag",
@@ -1179,11 +1179,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/testvisibility",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/testvisibility"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/testvisibility"
                   },
                   "description": "",
                   "title": "TestVisibility",
@@ -1195,11 +1195,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/gitsubmission",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/gitsubmission"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/gitsubmission"
                   },
                   "description": "",
                   "title": "GitSubmission",
@@ -1211,11 +1211,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/projectgroup",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/projectgroup"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/projectgroup"
                   },
                   "description": "",
                   "title": "ProjectGroup",
@@ -1227,11 +1227,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/assignmentreport",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/assignmentreport"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/assignmentreport"
                   },
                   "description": "",
                   "title": "AssignmentReport",
@@ -1243,11 +1243,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/submission",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/submission"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/submission"
                   },
                   "description": "",
                   "title": "Submission",
@@ -1259,11 +1259,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/assignee",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/assignee"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/assignee"
                   },
                   "description": "",
                   "title": "Assignee",
@@ -1275,11 +1275,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/submissionstatus",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/submissionstatus"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/submissionstatus"
                   },
                   "description": "",
                   "title": "SubmissionStatus",
@@ -1291,11 +1291,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/dao/jacocoreport",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao/jacocoreport"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/dao/jacocoreport"
                   },
                   "description": "",
                   "title": "JacocoReport",
@@ -1306,11 +1306,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/dao",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dao"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/dao"
               },
               "description": "",
               "title": "org.dropProject.dao",
@@ -1322,11 +1322,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/dropprojectapplication",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/dropprojectapplication"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/dropprojectapplication"
               },
               "description": "",
               "title": "DropProjectApplication",
@@ -1338,11 +1338,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/oauth2websecurityconfig",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/oauth2websecurityconfig"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/oauth2websecurityconfig"
               },
               "description": "",
               "title": "OAuth2WebSecurityConfig",
@@ -1357,11 +1357,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/apperrorcontroller",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/apperrorcontroller"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/apperrorcontroller"
                   },
                   "description": "",
                   "title": "AppErrorController",
@@ -1376,11 +1376,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/controllers/uploadcontroller/submissionnotfoundexception",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/uploadcontroller/submissionnotfoundexception"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/uploadcontroller/submissionnotfoundexception"
                       },
                       "description": "",
                       "title": "SubmissionNotFoundException",
@@ -1392,11 +1392,11 @@
                     "ownPages": [{
                       "reference": {
                         "path": "kotlindoc",
-                        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                        "baseUrl": "http://localhost:8080",
                         "fileName": "org/dropproject/controllers/uploadcontroller/assignmentnotfoundexception",
                         "extension": "html",
                         "usePrettyUrl": true,
-                        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/uploadcontroller/assignmentnotfoundexception"
+                        "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/uploadcontroller/assignmentnotfoundexception"
                       },
                       "description": "",
                       "title": "AssignmentNotFoundException",
@@ -1407,11 +1407,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/uploadcontroller",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/uploadcontroller"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/uploadcontroller"
                   },
                   "description": "",
                   "title": "UploadController",
@@ -1423,11 +1423,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/admincontroller",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/admincontroller"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/admincontroller"
                   },
                   "description": "",
                   "title": "AdminController",
@@ -1439,11 +1439,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/assignmentcontroller",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/assignmentcontroller"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/assignmentcontroller"
                   },
                   "description": "",
                   "title": "AssignmentController",
@@ -1455,11 +1455,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/invalidprojectstructureexception",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/invalidprojectstructureexception"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/invalidprojectstructureexception"
                   },
                   "description": "",
                   "title": "InvalidProjectStructureException",
@@ -1471,11 +1471,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/globalexceptionhandler",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/globalexceptionhandler"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/globalexceptionhandler"
                   },
                   "description": "",
                   "title": "GlobalExceptionHandler",
@@ -1487,11 +1487,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/logincontroller",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/logincontroller"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/logincontroller"
                   },
                   "description": "",
                   "title": "LoginController",
@@ -1503,11 +1503,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/reportcontroller",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/reportcontroller"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/reportcontroller"
                   },
                   "description": "",
                   "title": "ReportController",
@@ -1519,11 +1519,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/globalcontrolleradvice",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/globalcontrolleradvice"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/globalcontrolleradvice"
                   },
                   "description": "",
                   "title": "GlobalControllerAdvice",
@@ -1535,11 +1535,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/resourcenotfoundexception",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/resourcenotfoundexception"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/resourcenotfoundexception"
                   },
                   "description": "",
                   "title": "ResourceNotFoundException",
@@ -1551,11 +1551,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/controllers/applicationcontextlistener",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers/applicationcontextlistener"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers/applicationcontextlistener"
                   },
                   "description": "",
                   "title": "ApplicationContextListener",
@@ -1566,11 +1566,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/controllers",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllers"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/controllers"
               },
               "description": "",
               "title": "org.dropProject.controllers",
@@ -1582,11 +1582,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/asyncconfig",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/asyncconfig"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/asyncconfig"
               },
               "description": "",
               "title": "AsyncConfig",
@@ -1598,11 +1598,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/controllerrequestsloggingfilterconfig",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/controllerrequestsloggingfilterconfig"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/controllerrequestsloggingfilterconfig"
               },
               "description": "",
               "title": "ControllerRequestsLoggingFilterConfig",
@@ -1614,11 +1614,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/constants",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/constants"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/constants"
               },
               "description": "",
               "title": "Constants",
@@ -1630,11 +1630,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/cancellabletaskscheduler",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/cancellabletaskscheduler"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/cancellabletaskscheduler"
               },
               "description": "",
               "title": "CancellableTaskScheduler",
@@ -1646,11 +1646,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/simpleloginwebsecurityconfig",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/simpleloginwebsecurityconfig"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/simpleloginwebsecurityconfig"
               },
               "description": "",
               "title": "SimpleLoginWebSecurityConfig",
@@ -1665,11 +1665,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/forms/assignmentform",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/forms/assignmentform"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/forms/assignmentform"
                   },
                   "description": "",
                   "title": "AssignmentForm",
@@ -1681,11 +1681,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/forms/submissionmethod",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/forms/submissionmethod"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/forms/submissionmethod"
                   },
                   "description": "",
                   "title": "SubmissionMethod",
@@ -1697,11 +1697,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/forms/admindashboardform",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/forms/admindashboardform"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/forms/admindashboardform"
                   },
                   "description": "",
                   "title": "AdminDashboardForm",
@@ -1713,11 +1713,11 @@
                 "ownPages": [{
                   "reference": {
                     "path": "kotlindoc",
-                    "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                    "baseUrl": "http://localhost:8080",
                     "fileName": "org/dropproject/forms/uploadform",
                     "extension": "html",
                     "usePrettyUrl": true,
-                    "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/forms/uploadform"
+                    "link": "http://localhost:8080/kotlindoc/org/dropproject/forms/uploadform"
                   },
                   "description": "",
                   "title": "UploadForm",
@@ -1728,11 +1728,11 @@
             "ownPages": [{
               "reference": {
                 "path": "kotlindoc",
-                "baseUrl": "https://drop-project-edu.github.io/drop-project",
+                "baseUrl": "http://localhost:8080",
                 "fileName": "org/dropproject/forms",
                 "extension": "html",
                 "usePrettyUrl": true,
-                "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject/forms"
+                "link": "http://localhost:8080/kotlindoc/org/dropproject/forms"
               },
               "description": "",
               "title": "org.dropProject.forms",
@@ -1743,11 +1743,11 @@
         "ownPages": [{
           "reference": {
             "path": "kotlindoc",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "http://localhost:8080",
             "fileName": "org/dropproject",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/kotlindoc/org/dropproject"
+            "link": "http://localhost:8080/kotlindoc/org/dropproject"
           },
           "description": "",
           "title": "org.dropProject",
@@ -1758,11 +1758,11 @@
     "ownPages": [{
       "reference": {
         "path": "kotlindoc",
-        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+        "baseUrl": "http://localhost:8080",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "https://drop-project-edu.github.io/drop-project/kotlindoc"
+        "link": "http://localhost:8080/kotlindoc"
       },
       "description": "",
       "title": "README",
