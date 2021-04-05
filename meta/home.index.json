@@ -4,11 +4,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "https://drop-project-edu.github.io/drop-project",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://localhost:8080"
+        "link": "https://drop-project-edu.github.io/drop-project"
       },
       "description": "",
       "title": "Home",
@@ -17,11 +17,11 @@
     {
       "reference": {
         "path": "",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "https://drop-project-edu.github.io/drop-project",
         "fileName": "404",
         "extension": "html",
         "usePrettyUrl": false,
-        "link": "http://localhost:8080/404.html"
+        "link": "https://drop-project-edu.github.io/drop-project/404.html"
       },
       "description": "",
       "title": "Not Found",

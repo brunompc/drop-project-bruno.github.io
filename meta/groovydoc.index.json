@@ -5,11 +5,11 @@
     "ownPages": [{
       "reference": {
         "path": "groovydoc",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "https://drop-project-edu.github.io/drop-project",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://localhost:8080/groovydoc"
+        "link": "https://drop-project-edu.github.io/drop-project/groovydoc"
       },
       "description": "",
       "title": "",

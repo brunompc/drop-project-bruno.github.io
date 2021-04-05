@@ -5,11 +5,11 @@
     "ownPages": [{
       "reference": {
         "path": "javadoc",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "https://drop-project-edu.github.io/drop-project",
         "fileName": "",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://localhost:8080/javadoc"
+        "link": "https://drop-project-edu.github.io/drop-project/javadoc"
       },
       "description": "",
       "title": "",

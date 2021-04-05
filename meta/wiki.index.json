@@ -8,19 +8,19 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "concepts",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/concepts"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/concepts"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "assignment-creation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/assignment-creation"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/assignment-creation"
           },
           "description": "",
           "title": "Concepts",
@@ -32,19 +32,19 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "code-folder-structure",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/code-folder-structure"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "assignment-creation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/assignment-creation"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/assignment-creation"
           },
           "description": "",
           "title": "Source code structure",
@@ -56,27 +56,27 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "assignment-creation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/assignment-creation"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/assignment-creation"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "code-folder-structure",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/code-folder-structure"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "http://localhost:8080",
+            "baseUrl": "https://drop-project-edu.github.io/drop-project",
             "fileName": "concepts",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "http://localhost:8080/wiki/concepts"
+            "link": "https://drop-project-edu.github.io/drop-project/wiki/concepts"
           },
           "description": "",
           "title": "Assignment Creation Tutorial",
@@ -87,15 +87,15 @@
     "ownPages": [{
       "reference": {
         "path": "",
-        "baseUrl": "http://localhost:8080",
+        "baseUrl": "https://drop-project-edu.github.io/drop-project",
         "fileName": "wiki",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "http://localhost:8080/wiki"
+        "link": "https://drop-project-edu.github.io/drop-project/wiki"
       },
       "description": "",
       "title": "Wiki",
-      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"http://localhost:8080/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"http://localhost:8080/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"http://localhost:8080/wiki/code-folder-structure\">Source code structure<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure\">Source code structure<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
     }]
   }}
 }
