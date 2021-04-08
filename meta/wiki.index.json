@@ -8,19 +8,19 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "concepts",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/concepts"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "assignment-creation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/assignment-creation"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
           },
           "description": "",
           "title": "Concepts",
@@ -32,27 +32,27 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "code-folder-structure",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/code-folder-structure"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "test-tips",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/test-tips"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/test-tips"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "assignment-creation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/assignment-creation"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
           },
           "description": "",
           "title": "Source code structure",
@@ -64,19 +64,19 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "test-tips",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/test-tips"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/test-tips"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "code-folder-structure",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/code-folder-structure"
           },
           "description": "",
           "title": "Test creation tips",
@@ -88,27 +88,27 @@
         "ownPages": [{
           "reference": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "assignment-creation",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/assignment-creation"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation"
           },
           "next": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "code-folder-structure",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/code-folder-structure"
           },
           "previous": {
             "path": "wiki",
-            "baseUrl": "https://drop-project-edu.github.io/drop-project",
+            "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
             "fileName": "concepts",
             "extension": "html",
             "usePrettyUrl": true,
-            "link": "https://drop-project-edu.github.io/drop-project/wiki/concepts"
+            "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts"
           },
           "description": "",
           "title": "Assignment Creation Tutorial",
@@ -119,15 +119,15 @@
     "ownPages": [{
       "reference": {
         "path": "",
-        "baseUrl": "https://drop-project-edu.github.io/drop-project",
+        "baseUrl": "https://brunompc.github.io/drop-project-bruno.github.io",
         "fileName": "wiki",
         "extension": "html",
         "usePrettyUrl": true,
-        "link": "https://drop-project-edu.github.io/drop-project/wiki"
+        "link": "https://brunompc.github.io/drop-project-bruno.github.io/wiki"
       },
       "description": "",
       "title": "Wiki",
-      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/code-folder-structure\">Source code structure<\/a><\/li> \n   <li><a href=\"https://drop-project-edu.github.io/drop-project/wiki/test-tips\">Test creation tips<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
+      "content": "<html>\n <head><\/head>\n <body>\n  <ul> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/concepts\">Concepts<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/assignment-creation\">Assignment Creation Tutorial<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/code-folder-structure\">Source code structure<\/a><\/li> \n   <li><a href=\"https://brunompc.github.io/drop-project-bruno.github.io/wiki/test-tips\">Test creation tips<\/a><\/li> \n  <\/ul> \n <\/body>\n<\/html>\n"
     }]
   }}
 }
