@@ -35,9 +35,9 @@
 
 
 <!-- start:inject styles -->
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/468541e0/assets/css/editorial_main.css"  />
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/468541e0/assets/css/editorial_orchidCustomizations.css"  />
-<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/468541e0/assets/css/orchidSearch.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/2935a9da/assets/css/editorial_main.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/2935a9da/assets/css/editorial_orchidCustomizations.css"  />
+<link rel="stylesheet" type="text/css" href="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/2935a9da/assets/css/orchidSearch.css"  />
 <!-- end:inject styles -->
 
 
@@ -209,6 +209,7 @@ situation, we suggest that teachers employ the following test design strategies:
 <li>Multiple assertions</li>
 <li>Hide test case information: function arguments</li>
 <li>Hide test case information: function results</li>
+<li>Use private (or hidden) tests</li>
 </ul>
 <h6 id="multiple-assertions"><a href="#multiple-assertions" id="multiple-assertions" class="anchor"></a>Multiple assertions</h6>
 <p>Test functions should include multiple assertions, covering the range of valid return function values.</p>
@@ -293,6 +294,17 @@ public void test001() {
     }
     
     assertEquals(&quot;getNumbers() returned in incorrect value.&quot;, expectedNumbers, result);
+}
+</code></pre>
+<h6 id="use-private-or-hidden-tests"><a href="#use-private-or-hidden-tests" id="use-private-or-hidden-tests" class="anchor"></a>Use private (or hidden) tests</h6>
+<p>Finally, we recommend that any assignment used for student evaluation will contain a number of private tests.</p>
+<p>To define a private test in DP, just implement its function in a class prefixed by the <code>TestTeacherHidden</code> prefix, as in
+the following example:</p>
+<pre><code>public class TestHiddenPerson {
+    @Test
+    public void test001() {
+        ...
+    }
 }
 </code></pre>
 <h5 id="implement-tests-that-use-inputoutput-matching"><a href="#implement-tests-that-use-inputoutput-matching" id="implement-tests-that-use-inputoutput-matching" class="anchor"></a>Implement tests that use input/output matching</h5>
@@ -1329,9 +1341,9 @@ following tool in your assignment's tests:</p>
 <!-- start:inject scripts -->
 <script  src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script  src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/468541e0/assets/js/editorial_util.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/468541e0/assets/js/editorial_main.js"></script>
-<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/468541e0/assets/js/editorial_orchidCustomizations.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/2935a9da/assets/js/editorial_util.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/2935a9da/assets/js/editorial_main.js"></script>
+<script  src="https://brunompc.github.io/drop-project-bruno.github.io/Editorial/2935a9da/assets/js/editorial_orchidCustomizations.js"></script>
 <!-- end:inject scripts -->
 
 
